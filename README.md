@@ -1,3 +1,4 @@
+![masterHead](https://user-images.githubsercontent.com/95478989/198955082-6e78ebb5-ele4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Balram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
