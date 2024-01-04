@@ -1,4 +1,4 @@
-![masterHead](https://user-images.githubsercontent.com/95478989/198955082-6e78ebb5-ele4-49f9-8d32-6e5af3984dcd.gif)
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Balram</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
